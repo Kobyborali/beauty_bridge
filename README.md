@@ -1,2 +1,2 @@
-# beauty_bridge
-My dick is very very big
+# My practical work
+![myLayout](https://github.com/Kobyborali/beauty_bridge/blob/main/layout.png)

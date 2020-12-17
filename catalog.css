@@ -1,0 +1,36 @@
+body
+{
+    background-color: #f0c6d2;
+    font-family: "Ubuntu";
+    
+}
+
+section.catalog
+{
+    margin: 1% 8% 0;
+}
+
+section.catalog h1
+{
+    font-size: 48px;
+    font-weight: normal;
+}
+
+div.catalog--models
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 5% 0 0;
+}
+
+div.catalog--models figure
+{
+    box-shadow: 10px 10px 20px gray;
+}
+
+div.catalog--models figure figcaption
+{
+    background-color: #e9d1f2;
+    text-align: center;
+    font-size: 30pt;
+}
